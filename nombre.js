@@ -1,0 +1,1 @@
+console.log("Nombres de participantes: julieta, ezequiel");

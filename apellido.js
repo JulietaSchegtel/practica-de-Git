@@ -1,0 +1,1 @@
+console.log("Apellidos de participantes: Schegtel, Gonzalez");

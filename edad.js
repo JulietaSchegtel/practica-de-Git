@@ -1,0 +1,1 @@
+console.log("edad participantes: 20, 30");
